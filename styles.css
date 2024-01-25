@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+#animal-photos{
+	padding:25px;
+	margin:25px;
+	height:100px;
+}
+
+img{
+	height:150px;
+	width:150px;
+}
+#photo-heading{
+	display:flex;
+	
+}
+}
